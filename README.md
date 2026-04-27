@@ -10,7 +10,7 @@ This project displays a recipe with ingredients and step-by-step cooking instruc
 ## 🛠️ Technologies Used
 - HTML
 - CSS
-- 
+ 
 ## 📂 Project Structure
 - index.html
 - images/
